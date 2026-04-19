@@ -1,0 +1,17 @@
+C:\Users\marciohenrique\Downloads\uenp\TF_Compiladores-main\BasicInt\bin\Debug\net7.0\BasicInt.exe
+C:\Users\marciohenrique\Downloads\uenp\TF_Compiladores-main\BasicInt\bin\Debug\net7.0\BasicInt.deps.json
+C:\Users\marciohenrique\Downloads\uenp\TF_Compiladores-main\BasicInt\bin\Debug\net7.0\BasicInt.runtimeconfig.json
+C:\Users\marciohenrique\Downloads\uenp\TF_Compiladores-main\BasicInt\bin\Debug\net7.0\BasicInt.dll
+C:\Users\marciohenrique\Downloads\uenp\TF_Compiladores-main\BasicInt\bin\Debug\net7.0\BasicInt.pdb
+C:\Users\marciohenrique\Downloads\uenp\TF_Compiladores-main\BasicInt\bin\Debug\net7.0\Antlr4.Runtime.Standard.dll
+C:\Users\marciohenrique\Downloads\uenp\TF_Compiladores-main\BasicInt\obj\Debug\net7.0\BasicInt.csproj.AssemblyReference.cache
+C:\Users\marciohenrique\Downloads\uenp\TF_Compiladores-main\BasicInt\obj\Debug\net7.0\BasicInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marciohenrique\Downloads\uenp\TF_Compiladores-main\BasicInt\obj\Debug\net7.0\BasicInt.AssemblyInfoInputs.cache
+C:\Users\marciohenrique\Downloads\uenp\TF_Compiladores-main\BasicInt\obj\Debug\net7.0\BasicInt.AssemblyInfo.cs
+C:\Users\marciohenrique\Downloads\uenp\TF_Compiladores-main\BasicInt\obj\Debug\net7.0\BasicInt.csproj.CoreCompileInputs.cache
+C:\Users\marciohenrique\Downloads\uenp\TF_Compiladores-main\BasicInt\obj\Debug\net7.0\BasicInt.csproj.Up2Date
+C:\Users\marciohenrique\Downloads\uenp\TF_Compiladores-main\BasicInt\obj\Debug\net7.0\BasicInt.dll
+C:\Users\marciohenrique\Downloads\uenp\TF_Compiladores-main\BasicInt\obj\Debug\net7.0\refint\BasicInt.dll
+C:\Users\marciohenrique\Downloads\uenp\TF_Compiladores-main\BasicInt\obj\Debug\net7.0\BasicInt.pdb
+C:\Users\marciohenrique\Downloads\uenp\TF_Compiladores-main\BasicInt\obj\Debug\net7.0\BasicInt.genruntimeconfig.cache
+C:\Users\marciohenrique\Downloads\uenp\TF_Compiladores-main\BasicInt\obj\Debug\net7.0\ref\BasicInt.dll

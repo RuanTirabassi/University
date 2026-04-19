@@ -1,0 +1,195 @@
+#include <stdio.h>
+
+int main() {
+    int num = 10;
+    double decimal = 20.5;
+    str texto = "Hello";
+    bool booleano = true;
+
+    printf(num);
+    printf(decimal);
+    printf("texto = %s", texto);
+    printf("booleano = %d", booleano);
+    return 0;
+}
+
+------------------------
+
+#include <stdio.h>
+
+int main() {
+    int num = "opa";
+
+    printf(num);
+    return 0;
+}
+
+---------------
+
+
+#include <stdio.h>
+
+int main() {
+    int a = 1;
+    int b = 2;
+
+    if (a >= b) {
+        printf("a é maiorou igual que b");
+    } else {
+        printf("a menor que b");
+    }
+
+    return 0;
+}
+
+----------------------
+
+
+#include <stdio.h>
+
+int main() {
+    for (int i = 0; i < 10; i = i + 1) {
+        printf("i = %d", i);
+    }
+    return 0;
+}
+
+
+----------------------
+
+
+#include <stdio.h>
+
+int main() {
+    int i = 0;
+
+    while (i < 5) {
+        printf("i = %d", i);
+        i = i + 1;
+    }
+
+    return 0;
+}
+
+
+----------------------------
+
+
+#include <stdio.h>
+
+int main() {
+    int i = 0;
+
+    do {
+        printf("i = %d", i);
+        i = i + 1;
+    } while (i < 5);
+
+    return 0;
+}
+
+
+
+-----------------
+
+#include <stdio.h>
+
+int main() {
+    int v1 = 10;
+    int v2 = 5;
+
+    printf(v1 * v2);
+    printf(v1 / v2);
+    printf(v1 + v2);
+    printf(v1 - v2);
+    printf(v1 % v2);
+    return 0;
+}
+
+
+-------------------
+
+#include <stdio.h>
+
+int main() {
+    int v1 = 1;
+    int v2 = 100;
+
+    if (v1 == v2 || v2 == 100) {
+        printf("Entrou no if");
+    } else {
+        printf("Entrou no else");
+    }
+
+    if (v1 == v2 && v2 == 100) {
+        printf("Entrou no if");
+    } else {
+        printf("Entrou no else");
+    }
+    return 0;
+}
+
+---------------------------
+
+#include <stdio.h>
+
+void olamundo() {
+    printf("Ola mundo");
+}
+
+int main() {
+    olamundo();
+    return 0;
+}
+
+----------------------
+
+#include <stdio.h>
+
+int mult(int v1, int v2) {
+    return v1 * v2;
+}
+
+int main() {
+    int result = mult(5, 10);
+    printf("Result: %d", result);
+    return 0;
+}
+
+-----------------------------------
+
+#include <stdio.h>
+#include <math>
+
+int main() {
+    int result = mult(5, 10);
+    printf("Result: %d", result);
+    return 0;
+}
+
+---------------------------
+#include <stdio.h>
+#define const "valor fixo"
+
+int main() {
+    printf(const);
+    return 0;
+}
+
+-------------------
+
+#include <stdio.h>
+#include <math>
+#define opa 3.14
+
+void teste() {
+    printf("testando");
+}
+
+int main() {
+    int result = sum(10, 32);
+    printf(result);
+    printf(opa);
+    teste();
+    return 0;
+}
