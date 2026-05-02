@@ -2,6 +2,40 @@
 
 Esta é uma API simples em TypeScript para gerenciar apostadores em uma casa de apostas.
 
+## 🚀 Como rodar o projeto localmente
+
+Para clonar e executar o projeto na sua máquina, siga os passos abaixo.
+
+### Pré-requisitos
+- Ter o [Node.js](https://nodejs.org/) instalado na máquina.
+- Ter o [Git](https://git-scm.com/) instalado.
+
+### Passo a passo
+
+1. **Clone o repositório:**
+   ```bash
+   git clone <URL_DO_SEU_REPOSITORIO>
+   ```
+
+2. **Acesse a pasta do projeto:**
+   ```bash
+   cd UENP-apostas
+   ```
+
+3. **Instale as dependências:**
+   ```bash
+   npm install
+   ```
+
+4. **Inicie o servidor de desenvolvimento:**
+   ```bash
+   npm run dev
+   ```
+
+> 💡 **Nota:** O banco de dados SQLite (`database.sqlite`) será criado automaticamente na raiz do projeto e as tabelas serão geradas logo que você iniciar o servidor pela primeira vez.
+
+---
+
 ## 🌐 URL Base do Serviço
 
 A API roda localmente por padrão na porta 3000:
